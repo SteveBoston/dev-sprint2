@@ -1,2 +1,8 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name:Steve Gallagher
+
+
+1. Three alternate web apps:
+	1. Picture storage/sharing app
+	2. Magazine site with subscriber only content
+	3. Online code executer app
